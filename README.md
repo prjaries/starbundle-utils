@@ -1,4 +1,4 @@
-## Project Aries: Alpha Centauri
+## starbundle-utils
 
 A set of powershell scripts made to help people work with the IntelliSTAR 2's StarBundle content packages. These can be run either on the unit or on another powershell compatible machine.
 
