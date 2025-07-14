@@ -12,7 +12,7 @@ I have 2 files to store in C:\Program Files\vizrt\viz\data\image\domestic\backgr
 This would be a changeset bundle since its storing data in the Viz folders.
 I would need to make the following path in the input folder:
 
-image\domestic\backgrounds\OT-Aptos
+image\domestic\backgrounds\test
 
 and put my files in that folder
 
