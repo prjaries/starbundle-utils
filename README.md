@@ -1,4 +1,8 @@
-Oh hey! Welcome to my very very very crude starbundler tool!
+Welcome to PhysicsProp's Starbundle Utilities, a set of powershell scripts made to help people work with the IntelliSTAR 2's StarBundle content packages. These can be run either on the unit or on another powershell compatible machine.
+
+NOTE: this has not been tested in or developed for Constrained Language Mode (CLM). The deployement tool relies on injecting C$ code in a created upgrade package in order to get around the I2's SSL limitations, and directly violates CLM. If you are not comfortable with that, you can still use the bundle creation script, however the HTTP distribution script won't be available.
+
+For more info on CLM, go here: https://devblogs.microsoft.com/powershell/powershell-constrained-language-mode/
 
 Bundle Creator
 
