@@ -1,6 +1,6 @@
 Oh hey! Welcome to my very very very crude starbundler tool!
 
-##Bundle Creator
+Bundle Creator
 
 How to use:
 
@@ -32,7 +32,7 @@ and put my files in that folder
 3. Presto! The output folder will have the ZIP file.
 
 
-##Bundle Installer Creator
+Bundle Installer Creator
 1. Upload the file to a web server.
 
 
@@ -42,6 +42,6 @@ and put my files in that folder
 3. Send the .zip file to the I2 as an upgrade file. Once the I2 processes it, it should be able to pull the file and apply it.
 
 
-##Bundle Extractor
+Bundle Extractor
 
 1. Call the script with a parameter of "-starbundle", once complete you will see the files extracted into a subfolder.
