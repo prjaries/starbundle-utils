@@ -4,7 +4,7 @@ NOTE: this has not been tested in or developed for Constrained Language Mode (CL
 
 For more info on CLM, go here: https://devblogs.microsoft.com/powershell/powershell-constrained-language-mode/
 
-Bundle Creator
+# bundle-create.ps1 
 
 How to use:
 
@@ -36,7 +36,7 @@ and put my files in that folder
 3. Presto! The output folder will have the ZIP file.
 
 
-Bundle Installer Creator
+# bundle-http-deploy.ps1
 1. Upload the file to a web server.
 
 
@@ -46,6 +46,6 @@ Bundle Installer Creator
 3. Send the .zip file to the I2 as an upgrade file. Once the I2 processes it, it should be able to pull the file and apply it.
 
 
-Bundle Extractor
+# bundle-extractor.ps1
 
 1. Call the script with a parameter of "-starbundle", once complete you will see the files extracted into a subfolder.
